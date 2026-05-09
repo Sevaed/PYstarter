@@ -3,6 +3,8 @@ import os
 import sys
 
 
+# TODO
+# rewrite help
 def help(*args):
     print("""Usage:
   PYstarter FILE
